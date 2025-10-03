@@ -1,9 +1,3 @@
-# js-kata-starter
+# string-to-number-conversion-kata
 
-Starter project for kata (Node, TypeScript, Jest)
-
-## Getting started
-
-- **Fork**, then clone the repository
-- Install dependencies
-- Start developing (`npm test`)
+Write an algorithm that converts the string representation of a number into an actual number, e.g. "1932" into 1932.
